@@ -102,7 +102,7 @@ Ces données sont utilisées pour construire un modèle de prédiction du risque
 
 ## Résultats attendus
 
-* Un modèle de scoring fiable et interprétable
+* Un modèle de scoring interprétable
 * Une meilleure compréhension des facteurs de risque de défaut
 * Un outil d’aide à la décision pour l’octroi de crédit
 
