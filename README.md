@@ -82,12 +82,6 @@ Ces données sont utilisées pour construire un modèle de prédiction du risque
 * Analyse de l’importance des variables
 * Comparaison des différents modèles
 
-### 7. Déploiement et suivi
-
-* Intégration du modèle de scoring dans un environnement de production
-* Mise en place d’un suivi des performances dans le temps
-* Recalibrage périodique du modèle si nécessaire
-
 ---
 
 ## Technologies utilisées
